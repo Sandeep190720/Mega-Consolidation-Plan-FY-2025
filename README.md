@@ -1,4 +1,4 @@
-# Mega Consolidation Plan – FY 2025
+# Mega Consolidation Plan – FY 2025 (Looker Studio)
 
 Capacity, cube movement, and transfer analysis for mega consolidation planning across entities for FY 2025
 
