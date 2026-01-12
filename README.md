@@ -25,7 +25,7 @@ Built using **Looker Studio**, the dashboard helps operations and planning teams
 ## 🔗 Dashboard & Dataset Links
 
 📸 **Dashboard Preview**
-![Mega Consolidation Dashboard](mega_consolidation_dashboard.png)
+![Mega Consolidation Dashboard](Mega_Consolidation_Dashboard.png)
 
 🔗 **Dashboard Link**  
 [Dashboard Link](https://lookerstudio.google.com/u/1/reporting/2f894b29-24cc-46f5-b6e2-8fe0946dc605/page/B2qKF)
